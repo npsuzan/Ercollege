@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffb6a3"
+    android:orientation="vertical">
+    <FrameLayout
+        android:id="@+id/mp"
+        android:layout_margin="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/map"
+            tools:context=".Map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            tools:layout="@layout/abc_action_bar_title_item"/>
+    </FrameLayout>
+</LinearLayout>
+
+
+<!-- From: file:/C:/Users/NAZUS/AndroidStudioProjects/Ercollege/app/src/main/res/layout/map_layout.xml -->

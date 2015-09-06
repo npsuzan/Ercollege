@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/common_signin_btn_light_text_focused">
+    <TextView
+        android:layout_marginTop="35dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Er.COLLEGE IS AN IDEA BY VECTOR SOFT TO MAKE EASY ACCESS OF ALL ENGINEERING COLLEGE\n
+        DEVELOPER:\n
+        SUZAN NEUPANE\n
+        BIMAL PANTA\n\n
+        TECH. SUPPORTER:\n
+        SABIN DAHAL\n
+
+
+     \u00a9 2015 : All right Reserved.\n
+
+       Powered By:vector groups pvt.ltd
+        "
+        />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text=" http://vectorgroups.com"
+        android:linksClickable="true"
+        android:autoLink="web"/>
+    </LinearLayout>
+<!-- From: file:/C:/Users/NAZUS/AndroidStudioProjects/Ercollege/app/src/main/res/layout/about.xml -->

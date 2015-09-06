@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="5"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_margin="2dp"
+        android:background="@drawable/spinner"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.43">
+    </Spinner>
+    <LinearLayout
+        android:layout_margin="2dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#7ca8e893"
+        android:layout_weight="1.43">
+        <TextView
+            android:layout_width="fill_parent"
+            android:text="AVAILABLE SEATS"
+            android:textSize="20sp"
+            android:layout_margin="2dp"
+            android:gravity="center"
+            android:layout_height="fill_parent" />
+    </LinearLayout>
+    <LinearLayout
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:layout_margin="2dp"
+        android:background="#7ca8e893"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:layout_weight="0.9"
+        >
+      <LinearLayout
+          android:layout_width="fill_parent"
+          android:layout_height="fill_parent"
+          android:orientation="vertical"
+          android:layout_weight="1">
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="TOTAL"
+            android:layout_margin="7dp"
+            android:textSize="20sp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="REGULAR"
+            android:layout_margin="7dp"
+            android:textSize="20sp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="PARTIAL"
+            android:layout_margin="7dp"
+            android:textSize="20sp"
+            android:layout_height="wrap_content" />
+          <TextView
+              android:layout_width="wrap_content"
+              android:text="TOTAL FEE"
+              android:layout_margin="7dp"
+              android:textSize="20sp"
+              android:layout_height="wrap_content" />
+
+      </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            >
+            <TextView
+                android:id="@+id/total"
+                android:layout_width="wrap_content"
+                android:text="-----------------"
+                android:layout_margin="7dp"
+                android:textSize="20sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/regular"
+                android:layout_width="wrap_content"
+                android:text="-----------------"
+                android:layout_margin="7dp"
+                android:textSize="20sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/partial"
+                android:layout_width="wrap_content"
+                android:text="------------------"
+                android:layout_margin="7dp"
+                android:textSize="20sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/fee"
+                android:layout_width="wrap_content"
+                android:text="-----------------"
+                android:layout_margin="7dp"
+                android:textSize="20sp"
+                android:layout_height="wrap_content" />
+            </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.24"
+        android:background="#e799583a"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/c_add"
+            android:gravity="center"
+            android:linksClickable="true"
+            android:phoneNumber="true"
+            android:textColorLink="#ff0000ff"
+            android:autoLink="web"
+            android:layout_height="fill_parent"
+            android:layout_width="fill_parent"
+            android:lines="8"
+            android:layout_weight="1"
+            android:text=""></TextView>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:id="@+id/mapbt"
+            android:background="@drawable/button"
+            android:text="SHOW MAP"/>
+    </LinearLayout>
+</LinearLayout>

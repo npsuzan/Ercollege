@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ku_map">
+        <item>27.6181645</item> <item>85.5374032</item>
+    </string-array>
+    <string-array name="ku">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>60</item>
+        <item>0</item>
+        <item>0</item>
+        <item>570000</item>
+        <item>60</item>
+        <item>0</item>
+        <item>0</item>
+        <item>570000</item>
+        <item>60</item>
+        <item>0</item>
+        <item>0</item>
+        <item>570000</item>
+        <item>60</item>
+        <item>0</item>
+        <item>0</item>
+        <item>570000</item>
+        <item>60</item>
+        <item>0</item>
+        <item>0</item>
+        <item>570000</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="kun">
+        <item>011661511</item>
+        </string>
+    <string name="kuadd">
+        <item>DHULIKHEL</item>
+        </string>
+      <string name="ku_link">
+        <item>http://www.ku.edu.np/eng</item>
+        </string>
+</resources>

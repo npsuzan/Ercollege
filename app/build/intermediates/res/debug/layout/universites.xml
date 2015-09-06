@@ -1,0 +1,28 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#e7331935">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff68ae9b"
+        android:text="UNIVERSITIES"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="10dp"
+        />
+    <ListView
+        android:id="@+id/listview"
+        android:layout_margin="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        />
+    <FrameLayout
+        android:id="@+id/main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"></FrameLayout>
+</LinearLayout>
+<!-- From: file:/C:/Users/NAZUS/AndroidStudioProjects/Ercollege/app/src/main/res/layout/universites.xml -->

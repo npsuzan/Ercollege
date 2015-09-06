@@ -1,0 +1,37 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#005350"
+    android:orientation="vertical"
+    android:clickable="true"
+    tools:context=".Main_class"
+    android:layout_margin="5dp"
+    ><LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="10"
+    android:background="#da232323"
+    >
+    <TextView
+        android:id="@+id/sss"
+        android:layout_width="match_parent"
+        android:clickable="true"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:text="ENGINEERING COLLEGES"
+        android:textSize="20sp"
+        android:layout_margin="2dp"
+        android:layout_gravity="center"
+        />
+</LinearLayout>
+    <ListView
+        android:layout_weight="1"
+        android:id="@+id/c_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        />
+
+</LinearLayout>
+<!-- From: file:/C:/Users/NAZUS/AndroidStudioProjects/Ercollege/app/src/main/res/layout/college.xml -->

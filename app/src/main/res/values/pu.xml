@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pcollege">
+        <item>Acme Engineering College</item>
+        <item>College of Information Technology and Engineering</item>
+        <item>Kantipur City College</item>
+        <item>Khwopa Engineering College</item>
+        <item>White House Institute of Science and Technology</item>
+        <item>Aryan School of Engineering e</item>
+        <item>Central Engineering College</item>
+        <item>Himalayan Institute of Sc. and Technology</item>
+        <item>Hillside Engineering College</item>
+        <item>Kantipur international college</item>
+
+    </string-array>
+    <string-array name="pc_add">
+        <item>Sitapaila,KTM</item>
+        <item>Gairigaon,KTM</item>
+        <item>Putalisadak</item>
+        <item>BHAKTAPUR</item>
+        <item>Khumaltar</item>
+        <item>Old Baneshwor</item>
+        <item>Janakpurdham,Janakpur</item>
+        <item>New Baneshwor</item>
+        <item>koteshwor,kathmandu</item>
+        <item>Lubu,lalitpur</item>
+    </string-array>
+    <string-array name="pc_no">
+        <item>Phone:014282962</item>
+        <item>Phone:014111840,</item>
+        <item>Phone:014430239</item>
+        <item>Phone:016614794</item>
+        <item>Phone:015548314</item>
+        <item>Phone:014485146</item>
+        <item>Phone:041527336</item>
+        <item>Phone:014112044</item>
+        <item>Phone:015147207</item>
+        <item>Phone:015582565</item>
+
+    </string-array>
+    <string-array name="pc_links">
+        <item>http://www.acme.edu.np/</item>
+        <item>http://www.cit.edu.np/</item>
+        <item>http://www.kcc.edu.np/</item>
+        <item>http://www.khec.edu.np/</item>
+        <item>http://whitehouse.edu.np/</item>
+        <item>http://www.thearyanschool.edu.np/engineering</item>
+        <item>http://cecjanakpur.com/</item>
+        <item>www.hist.edu.np</item>
+        <item>www.hec.edu.np</item>
+        <item>www.kic.edu.np</item>
+    </string-array>
+    <string-array name="pc_map">
+        <item>27.7080436</item>
+        <item>85.2843719</item>
+        <item>27.684948</item>
+        <item>85.345509</item>
+        <item>27.7037803</item>
+        <item>85.3232336</item>
+        <item>27.6707963</item>
+        <item>85.4396528</item>
+        <item>27.694348</item>
+        <item>85.337423</item>
+        <item>27.6961316</item>
+        <item>85.3380239</item>
+        <item>26.7543109</item>
+        <item>85.9368</item>
+        <item>27.688599</item>
+        <item>85.33272</item>
+        <item>27.674450</item>
+        <item>85.342372</item>
+        <item>27.646550</item>
+        <item>85.365304</item>
+
+    </string-array>
+    <string-array name="p1">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>120</item>
+        <item>6</item>
+        <item>6</item>
+        <item>approx 8 lacs</item>
+        <item>80</item>
+        <item>4</item>
+        <item>4</item>
+        <item>approx 7 lacs</item>
+        <item>80</item>
+        <item>4</item>
+        <item>4</item>
+        <item>approx 7 lacs</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>48</item>
+        <item>2</item>
+        <item>2</item>
+        <item>approx. 9 lacs</item>
+    </string-array>
+
+    <string-array name="p2">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>48</item>
+        <item>2</item>
+        <item>2</item>
+        <item>approx 7 lacs</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+    <string-array name="p3">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>144</item>
+        <item>6</item>
+        <item>6</item>
+        <item>approx.850000</item>
+        <item>40</item>
+        <item>2</item>
+        <item>2</item>
+        <item>approx.750000</item>
+        <item>40</item>
+        <item>2</item>
+        <item>2</item>
+        <item>approx. 750000</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+    <string-array name="p4">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>96</item>
+        <item>5</item>
+        <item>4</item>
+        <item>approx.850000</item>
+        <item>48</item>
+        <item>2</item>
+        <item>2</item>
+        <item>approx.750000</item>
+        <item>48</item>
+        <item>2</item>
+        <item>2</item>
+        <item>approx. 750000</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>24</item>
+        <item>1</item>
+        <item>1</item>
+        <item>approx. 850000</item>
+    </string-array>
+
+    <string-array name="p5">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>144</item>
+        <item>6</item>
+        <item>6</item>
+        <item>approx.850000</item>
+        <item>40</item>
+        <item>2</item>
+        <item>2</item>
+        <item>approx.750000</item>
+        <item>40</item>
+        <item>2</item>
+        <item>2</item>
+        <item>approx. 750000</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+    <string-array name="p6">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>144</item>
+        <item>6</item>
+        <item>6</item>
+        <item>approx.850000</item>
+        <item>40</item>
+        <item>2</item>
+        <item>2</item>
+        <item>approx.750000</item>
+        <item>40</item>
+        <item>2</item>
+        <item>2</item>
+        <item>approx. 750000</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+    <string-array name="p7">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>48</item>
+        <item>2</item>
+        <item>2</item>
+        <item>approx.850000</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+    <string-array name="p8">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>72</item>
+        <item>4</item>
+        <item>3</item>
+        <item>approx.800000</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>35</item>
+        <item>2</item>
+        <item>1</item>
+        <item>approx. 6lacs</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+    <string-array name="p9">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>96</item>
+        <item>5</item>
+        <item>4</item>
+        <item>approx.750000</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>48</item>
+        <item>2</item>
+        <item>2</item>
+        <item>Approx.7 lacs</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+    <string-array name="p10">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>48</item>
+        <item>2</item>
+        <item>2</item>
+        <item>approx.7 lacs</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>48</item>
+        <item>2</item>
+        <item>2</item>
+        <item>Aprox. 8 lacs</item>
+    </string-array>
+
+</resources>

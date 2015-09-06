@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="po_colleges">
+        <item>Cosmos College of management and technology </item>
+        <item>Everest Engineering College </item>
+        <item>Universal Science College</item>
+        <item>Gandaki College of Engineering Sciences</item>
+        <item>Lumbini Engineering College</item>
+        <item>Nepal College of Information Technology</item>
+        <item>Nepal Engineering College </item>
+        <item>Pokhara Engineering college</item>
+        <item>Oxford College of Engineering and Management </item>
+        </string-array>
+    <string-array name="po_add">
+        <item>Nakkhu Road,Lalitpur</item>
+        <item>Gongabu,Kathmandu</item>
+        <item>Chakupat,Lalitpur</item>
+        <item>Lamachour,Pokhara</item>
+        <item>Butwal,Rupandehi</item>
+        <item>Emadole,Lalitpur </item>
+        <item>Changunarayan,Bhaktapur</item>
+        <item>Phirke,Pokhara</item>
+        <item>Gaidakot-2,Nawalparasi</item>
+    </string-array>
+    <string-array name="po_link">
+    <item>http://www.cosmoscollege.edu.np</item>
+    <item>http://eemc.edu.np</item>
+    <item>http://uscollege.edu.np/</item>
+    <item>http://gces.edu.np</item>
+    <item>http://www.lumbini.edu.np</item>
+    <item>http://www.ncit.edu.np</item>
+    <item>http://www.nec.edu.np</item>
+    <item>http://www.pec.edu.np</item>
+    <item>http://www.oxfordcollege.edu.np</item>
+    </string-array>
+    <string-array name="po_no">
+        <item>015151704</item>
+        <item>014033127</item>
+        <item>012110043</item>
+        <item>061440866</item>
+        <item>071561959</item>
+        <item>015006270</item>
+        <item>0150990744</item>
+        <item>061531209</item>
+        <item>056501281</item>
+    </string-array>
+    <string-array name="po_map">
+        <item>27.6552873</item>  <item>85.3210933</item>
+        <item>27.655273</item>   <item>85.321125</item>
+        <item>27.6800365</item>   <item>85.3261113</item>
+        <item>28.258680</item>   <item>83.970442</item>
+        <item>27.605748</item>   <item>83.468851</item>
+        <item>27.671405</item>   <item>85.338760</item>
+        <item>27.710490</item>   <item>85.415986</item>
+        <item>28.211075</item>   <item>83.977251</item>
+        <item>27.702432</item>   <item>84.418979</item>
+    </string-array>
+    <string-array name="po1">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>96</item>
+        <item>not fixed</item>
+        <item>not fixed</item>
+        <item>Approx.750000</item>
+        <item>48</item>
+        <item>Not fixed</item>
+        <item>Not fixed</item>
+        <item>Approx.750000</item>
+        <item>48</item>
+        <item>Not fixed</item>
+        <item>Not fixed</item>
+        <item>750000</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+    <string-array name="po2">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>48</item>
+        <item>Not Fixed</item>
+        <item>Not Fixed</item>
+        <item>6 lacs</item>
+        <item>48</item>
+        <item>Not Fixed</item>
+        <item>Not Fixed</item>
+        <item>6 lacs</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+    <string-array name="pou">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>96</item>
+        <item>5</item>
+        <item>none</item>
+        <item>Approx.850000</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>46</item>
+        <item>2</item>
+        <item>Not fixed</item>
+        <item>Approx.750000</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+    <string-array name="po3">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>46</item>
+        <item>2</item>
+        <item>Not fixed</item>
+        <item>Approx.750000</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+    <string-array name="po4">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>144</item>
+        <item>Not Fixed</item>
+        <item>Not Fixed</item>
+        <item>8 lacs</item>
+        <item>48</item>
+        <item>Not Fixed</item>
+        <item>Not Fixed</item>
+        <item>7 lacs</item>
+        <item>48</item>
+        <item>Not Fixed</item>
+        <item>Not Fixed</item>
+        <item>7 lacs</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+    <string-array name="po5">
+    <item>none</item>
+    <item>none</item>
+    <item>none</item>
+    <item>none</item>
+    <item>48</item>
+    <item>Not fixed</item>
+    <item>Not fixed</item>
+    <item>Approx.8,00000</item>
+    <item>96</item>
+    <item>Not fixed</item>
+    <item>Not fixed</item>
+    <item>Approx. 7,00000</item>
+    <item>48</item>
+    <item>Not fixed</item>
+    <item>Not fixed</item>
+    <item>Approx. 7,00000</item>
+    <item>none</item>
+    <item>none</item>
+    <item>none</item>
+    <item>none</item>
+    <item>96</item>
+    <item>Not fixed</item>
+    <item>Not fixed</item>
+    <item>Approx 7,00000</item>
+    <item>none</item>
+    <item>none</item>
+    <item>none</item>
+    <item>none</item>
+    <item>none</item>
+    <item>none</item>
+    <item>none</item>
+    <item>none</item>
+    <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+</string-array>
+    <string-array name="po6">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>144</item>
+        <item>Not fixed</item>
+        <item>Not fixed</item>
+        <item>917000</item>
+        <item>96</item>
+        <item>Not fixed</item>
+        <item>Not fixed</item>
+        <item>917000</item>
+        <item>96</item>
+        <item>Not fixed</item>
+        <item>Not fixed</item>
+        <item>917000</item>
+        <item>48</item>
+        <item>Not fixed</item>
+        <item>Not fixed</item>
+        <item>917000</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>48</item>
+        <item>Not fixed</item>
+        <item>Not fixed</item>
+        <item>1020000</item>
+    </string-array>
+    <string-array name="po7">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>96</item>
+        <item>4</item>
+        <item>1</item>
+        <item>700000</item>
+        <item>48</item>
+        <item>2</item>
+        <item>1</item>
+        <item>700000</item>
+        <item>48</item>
+        <item>2</item>
+        <item>1</item>
+        <item>700000</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+    <string-array name="po8">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>48</item>
+        <item>Not Fixed</item>
+        <item>Not Fixed</item>
+        <item>7 lacs</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>48</item>
+        <item>Not Fixed</item>
+        <item>Not Fixed</item>
+        <item>6 lacs</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+    <string-array name="po9">
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+        <item>none</item>
+    </string-array>
+</resources>
